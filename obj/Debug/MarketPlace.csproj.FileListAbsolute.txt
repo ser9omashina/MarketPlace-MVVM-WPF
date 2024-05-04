@@ -1,0 +1,259 @@
+G:\3 курс 2 семестр\БД Глоба\Задание 2\MarketPlace\obj\Debug\MarketPlace.csproj.AssemblyReference.cache
+G:\3 курс 2 семестр\БД Глоба\Задание 2\MarketPlace\obj\Debug\MarketPlace.csproj.SuggestedBindingRedirects.cache
+G:\3 курс 2 семестр\БД Глоба\Задание 2\MarketPlace\obj\Debug\View\MainWindow.g.cs
+G:\3 курс 2 семестр\БД Глоба\Задание 2\MarketPlace\obj\Debug\App.g.cs
+G:\3 курс 2 семестр\БД Глоба\Задание 2\MarketPlace\obj\Debug\MarketPlace_MarkupCompile.cache
+G:\3 курс 2 семестр\БД Глоба\Задание 2\MarketPlace\obj\Debug\MarketPlace_MarkupCompile.lref
+C:\Users\serega\Desktop\MarketPlace\obj\Debug\MarketPlace.csproj.AssemblyReference.cache
+C:\Users\serega\Desktop\MarketPlace\obj\Debug\View\MainWindow.g.cs
+C:\Users\serega\Desktop\MarketPlace\obj\Debug\App.g.cs
+C:\Users\serega\Desktop\MarketPlace\obj\Debug\MarketPlace_MarkupCompile.cache
+C:\Users\serega\Desktop\MarketPlace\obj\Debug\MarketPlace_MarkupCompile.lref
+C:\Users\serega\Desktop\MarketPlace\bin\Debug\MarketPlace.exe.config
+C:\Users\serega\Desktop\MarketPlace\bin\Debug\MarketPlace.exe
+C:\Users\serega\Desktop\MarketPlace\bin\Debug\MarketPlace.pdb
+C:\Users\serega\Desktop\MarketPlace\obj\Debug\View\MainWindow.baml
+C:\Users\serega\Desktop\MarketPlace\obj\Debug\MarketPlace.g.resources
+C:\Users\serega\Desktop\MarketPlace\obj\Debug\MarketPlace.Properties.Resources.resources
+C:\Users\serega\Desktop\MarketPlace\obj\Debug\MarketPlace.csproj.GenerateResource.cache
+C:\Users\serega\Desktop\MarketPlace\obj\Debug\MarketPlace.csproj.CoreCompileInputs.cache
+C:\Users\serega\Desktop\MarketPlace\obj\Debug\MarketPlace.exe
+C:\Users\serega\Desktop\MarketPlace\obj\Debug\MarketPlace.pdb
+C:\Users\serega\Desktop\MarketPlace\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\serega\Desktop\MarketPlace\obj\Debug\View\LoginWindow.g.cs
+C:\Users\serega\Desktop\MarketPlace\bin\Debug\Catel.Core.dll
+C:\Users\serega\Desktop\MarketPlace\bin\Debug\Catel.MVVM.dll
+C:\Users\serega\Desktop\MarketPlace\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\serega\Desktop\MarketPlace\bin\Debug\Catel.Core.pdb
+C:\Users\serega\Desktop\MarketPlace\bin\Debug\Catel.Core.xml
+C:\Users\serega\Desktop\MarketPlace\bin\Debug\Catel.MVVM.pdb
+C:\Users\serega\Desktop\MarketPlace\bin\Debug\Catel.MVVM.xml
+C:\Users\serega\Desktop\MarketPlace\bin\Debug\de\Catel.MVVM.resources.dll
+C:\Users\serega\Desktop\MarketPlace\bin\Debug\es\Catel.MVVM.resources.dll
+C:\Users\serega\Desktop\MarketPlace\bin\Debug\fr\Catel.MVVM.resources.dll
+C:\Users\serega\Desktop\MarketPlace\bin\Debug\it\Catel.MVVM.resources.dll
+C:\Users\serega\Desktop\MarketPlace\bin\Debug\nl\Catel.MVVM.resources.dll
+C:\Users\serega\Desktop\MarketPlace\bin\Debug\ru\Catel.MVVM.resources.dll
+C:\Users\serega\Desktop\MarketPlace\bin\Debug\tr\Catel.MVVM.resources.dll
+C:\Users\serega\Desktop\MarketPlace\bin\Debug\zh-Hans\Catel.MVVM.resources.dll
+C:\Users\serega\Desktop\MarketPlace\obj\Debug\View\LoginWindow.baml
+C:\Users\serega\Desktop\MarketPlace\obj\Debug\MarketPlace.csproj.CopyComplete
+E:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\MarketPlace.exe.config
+E:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\MarketPlace.exe
+E:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\MarketPlace.pdb
+E:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\Catel.Core.dll
+E:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\Catel.MVVM.dll
+E:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\System.Windows.Interactivity.dll
+E:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\Catel.Core.pdb
+E:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\Catel.Core.xml
+E:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\Catel.MVVM.pdb
+E:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\Catel.MVVM.xml
+E:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\de\Catel.MVVM.resources.dll
+E:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\es\Catel.MVVM.resources.dll
+E:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\fr\Catel.MVVM.resources.dll
+E:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\it\Catel.MVVM.resources.dll
+E:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\nl\Catel.MVVM.resources.dll
+E:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\ru\Catel.MVVM.resources.dll
+E:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\tr\Catel.MVVM.resources.dll
+E:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\zh-Hans\Catel.MVVM.resources.dll
+E:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\obj\Debug\MarketPlace.csproj.AssemblyReference.cache
+E:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\obj\Debug\MarketPlace.csproj.SuggestedBindingRedirects.cache
+E:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\obj\Debug\View\LoginWindow.g.cs
+E:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\obj\Debug\View\MainWindow.g.cs
+E:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\obj\Debug\App.g.cs
+E:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\obj\Debug\MarketPlace_MarkupCompile.cache
+E:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\obj\Debug\MarketPlace_MarkupCompile.lref
+E:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\obj\Debug\View\LoginWindow.baml
+E:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\obj\Debug\View\MainWindow.baml
+E:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\obj\Debug\MarketPlace.g.resources
+E:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\obj\Debug\MarketPlace.Properties.Resources.resources
+E:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\obj\Debug\MarketPlace.csproj.GenerateResource.cache
+E:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\obj\Debug\MarketPlace.csproj.CoreCompileInputs.cache
+E:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\obj\Debug\MarketPlace.csproj.CopyComplete
+E:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\obj\Debug\MarketPlace.exe
+E:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\obj\Debug\MarketPlace.pdb
+C:\Users\serega\Desktop\MarketPlace\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\serega\Desktop\MarketPlace\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\serega\Desktop\MarketPlace\obj\Debug\View\AdministratorWindow.g.cs
+C:\Users\serega\Desktop\MarketPlace\obj\Debug\View\LoaderOrManagerWindow.g.cs
+C:\Users\serega\Desktop\MarketPlace\obj\Debug\View\AdministratorWindow.baml
+C:\Users\serega\Desktop\MarketPlace\obj\Debug\View\LoaderOrManagerWindow.baml
+C:\Users\serega\Desktop\MarketPlace\bin\Debug\CommonServiceLocator.dll
+C:\Users\serega\Desktop\MarketPlace\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\serega\Desktop\MarketPlace\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\serega\Desktop\MarketPlace\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\serega\Desktop\MarketPlace\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\serega\Desktop\MarketPlace\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\serega\Desktop\MarketPlace\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\serega\Desktop\MarketPlace\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\serega\Desktop\MarketPlace\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\serega\Desktop\MarketPlace\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+\\iscsi\profstud\tusyuksa\Desktop\Глоба + Горячкина\MarketPlace\bin\Debug\MarketPlace.exe.config
+\\iscsi\profstud\tusyuksa\Desktop\Глоба + Горячкина\MarketPlace\bin\Debug\MarketPlace.exe
+\\iscsi\profstud\tusyuksa\Desktop\Глоба + Горячкина\MarketPlace\bin\Debug\MarketPlace.pdb
+\\iscsi\profstud\tusyuksa\Desktop\Глоба + Горячкина\MarketPlace\bin\Debug\Catel.Core.dll
+\\iscsi\profstud\tusyuksa\Desktop\Глоба + Горячкина\MarketPlace\bin\Debug\Catel.MVVM.dll
+\\iscsi\profstud\tusyuksa\Desktop\Глоба + Горячкина\MarketPlace\bin\Debug\CommonServiceLocator.dll
+\\iscsi\profstud\tusyuksa\Desktop\Глоба + Горячкина\MarketPlace\bin\Debug\GalaSoft.MvvmLight.dll
+\\iscsi\profstud\tusyuksa\Desktop\Глоба + Горячкина\MarketPlace\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+\\iscsi\profstud\tusyuksa\Desktop\Глоба + Горячкина\MarketPlace\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+\\iscsi\profstud\tusyuksa\Desktop\Глоба + Горячкина\MarketPlace\bin\Debug\System.Configuration.ConfigurationManager.dll
+\\iscsi\profstud\tusyuksa\Desktop\Глоба + Горячкина\MarketPlace\bin\Debug\System.Windows.Interactivity.dll
+\\iscsi\profstud\tusyuksa\Desktop\Глоба + Горячкина\MarketPlace\bin\Debug\Catel.Core.pdb
+\\iscsi\profstud\tusyuksa\Desktop\Глоба + Горячкина\MarketPlace\bin\Debug\Catel.Core.xml
+\\iscsi\profstud\tusyuksa\Desktop\Глоба + Горячкина\MarketPlace\bin\Debug\Catel.MVVM.pdb
+\\iscsi\profstud\tusyuksa\Desktop\Глоба + Горячкина\MarketPlace\bin\Debug\Catel.MVVM.xml
+\\iscsi\profstud\tusyuksa\Desktop\Глоба + Горячкина\MarketPlace\bin\Debug\GalaSoft.MvvmLight.pdb
+\\iscsi\profstud\tusyuksa\Desktop\Глоба + Горячкина\MarketPlace\bin\Debug\GalaSoft.MvvmLight.xml
+\\iscsi\profstud\tusyuksa\Desktop\Глоба + Горячкина\MarketPlace\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+\\iscsi\profstud\tusyuksa\Desktop\Глоба + Горячкина\MarketPlace\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+\\iscsi\profstud\tusyuksa\Desktop\Глоба + Горячкина\MarketPlace\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+\\iscsi\profstud\tusyuksa\Desktop\Глоба + Горячкина\MarketPlace\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+\\iscsi\profstud\tusyuksa\Desktop\Глоба + Горячкина\MarketPlace\bin\Debug\System.Configuration.ConfigurationManager.xml
+\\iscsi\profstud\tusyuksa\Desktop\Глоба + Горячкина\MarketPlace\bin\Debug\de\Catel.MVVM.resources.dll
+\\iscsi\profstud\tusyuksa\Desktop\Глоба + Горячкина\MarketPlace\bin\Debug\es\Catel.MVVM.resources.dll
+\\iscsi\profstud\tusyuksa\Desktop\Глоба + Горячкина\MarketPlace\bin\Debug\fr\Catel.MVVM.resources.dll
+\\iscsi\profstud\tusyuksa\Desktop\Глоба + Горячкина\MarketPlace\bin\Debug\it\Catel.MVVM.resources.dll
+\\iscsi\profstud\tusyuksa\Desktop\Глоба + Горячкина\MarketPlace\bin\Debug\nl\Catel.MVVM.resources.dll
+\\iscsi\profstud\tusyuksa\Desktop\Глоба + Горячкина\MarketPlace\bin\Debug\ru\Catel.MVVM.resources.dll
+\\iscsi\profstud\tusyuksa\Desktop\Глоба + Горячкина\MarketPlace\bin\Debug\tr\Catel.MVVM.resources.dll
+\\iscsi\profstud\tusyuksa\Desktop\Глоба + Горячкина\MarketPlace\bin\Debug\zh-Hans\Catel.MVVM.resources.dll
+\\iscsi\profstud\tusyuksa\Desktop\Глоба + Горячкина\MarketPlace\obj\Debug\MarketPlace.csproj.AssemblyReference.cache
+\\iscsi\profstud\tusyuksa\Desktop\Глоба + Горячкина\MarketPlace\obj\Debug\MarketPlace.csproj.SuggestedBindingRedirects.cache
+\\iscsi\profstud\tusyuksa\Desktop\Глоба + Горячкина\MarketPlace\obj\Debug\View\AdministratorWindow.g.cs
+\\iscsi\profstud\tusyuksa\Desktop\Глоба + Горячкина\MarketPlace\obj\Debug\View\LoaderOrManagerWindow.g.cs
+\\iscsi\profstud\tusyuksa\Desktop\Глоба + Горячкина\MarketPlace\obj\Debug\View\LoginWindow.g.cs
+\\iscsi\profstud\tusyuksa\Desktop\Глоба + Горячкина\MarketPlace\obj\Debug\View\MainWindow.g.cs
+\\iscsi\profstud\tusyuksa\Desktop\Глоба + Горячкина\MarketPlace\obj\Debug\App.g.cs
+\\iscsi\profstud\tusyuksa\Desktop\Глоба + Горячкина\MarketPlace\obj\Debug\GeneratedInternalTypeHelper.g.cs
+\\iscsi\profstud\tusyuksa\Desktop\Глоба + Горячкина\MarketPlace\obj\Debug\MarketPlace_MarkupCompile.cache
+\\iscsi\profstud\tusyuksa\Desktop\Глоба + Горячкина\MarketPlace\obj\Debug\MarketPlace_MarkupCompile.lref
+\\iscsi\profstud\tusyuksa\Desktop\Глоба + Горячкина\MarketPlace\obj\Debug\View\AdministratorWindow.baml
+\\iscsi\profstud\tusyuksa\Desktop\Глоба + Горячкина\MarketPlace\obj\Debug\View\LoaderOrManagerWindow.baml
+\\iscsi\profstud\tusyuksa\Desktop\Глоба + Горячкина\MarketPlace\obj\Debug\View\LoginWindow.baml
+\\iscsi\profstud\tusyuksa\Desktop\Глоба + Горячкина\MarketPlace\obj\Debug\View\MainWindow.baml
+\\iscsi\profstud\tusyuksa\Desktop\Глоба + Горячкина\MarketPlace\obj\Debug\MarketPlace.g.resources
+\\iscsi\profstud\tusyuksa\Desktop\Глоба + Горячкина\MarketPlace\obj\Debug\MarketPlace.Properties.Resources.resources
+\\iscsi\profstud\tusyuksa\Desktop\Глоба + Горячкина\MarketPlace\obj\Debug\MarketPlace.csproj.GenerateResource.cache
+\\iscsi\profstud\tusyuksa\Desktop\Глоба + Горячкина\MarketPlace\obj\Debug\MarketPlace.csproj.CoreCompileInputs.cache
+\\iscsi\profstud\tusyuksa\Desktop\Глоба + Горячкина\MarketPlace\obj\Debug\MarketPlace.csproj.CopyComplete
+\\iscsi\profstud\tusyuksa\Desktop\Глоба + Горячкина\MarketPlace\obj\Debug\MarketPlace.exe
+\\iscsi\profstud\tusyuksa\Desktop\Глоба + Горячкина\MarketPlace\obj\Debug\MarketPlace.pdb
+E:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\CommonServiceLocator.dll
+E:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\GalaSoft.MvvmLight.dll
+E:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+E:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+E:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\GalaSoft.MvvmLight.pdb
+E:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\GalaSoft.MvvmLight.xml
+E:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+E:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+E:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+E:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+E:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\obj\Debug\View\AdministratorWindow.g.cs
+E:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\obj\Debug\View\LoaderOrManagerWindow.g.cs
+E:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\obj\Debug\View\AdministratorWindow.baml
+E:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\obj\Debug\View\LoaderOrManagerWindow.baml
+F:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\MarketPlace.exe.config
+F:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\MarketPlace.exe
+F:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\MarketPlace.pdb
+F:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\Catel.Core.dll
+F:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\Catel.MVVM.dll
+F:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\CommonServiceLocator.dll
+F:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\GalaSoft.MvvmLight.dll
+F:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+F:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+F:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\System.Configuration.ConfigurationManager.dll
+F:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\System.Windows.Interactivity.dll
+F:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\Catel.Core.pdb
+F:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\Catel.Core.xml
+F:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\Catel.MVVM.pdb
+F:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\Catel.MVVM.xml
+F:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\GalaSoft.MvvmLight.pdb
+F:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\GalaSoft.MvvmLight.xml
+F:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+F:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+F:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+F:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+F:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\System.Configuration.ConfigurationManager.xml
+F:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\de\Catel.MVVM.resources.dll
+F:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\es\Catel.MVVM.resources.dll
+F:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\fr\Catel.MVVM.resources.dll
+F:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\it\Catel.MVVM.resources.dll
+F:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\nl\Catel.MVVM.resources.dll
+F:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\ru\Catel.MVVM.resources.dll
+F:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\tr\Catel.MVVM.resources.dll
+F:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\zh-Hans\Catel.MVVM.resources.dll
+F:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\obj\Debug\MarketPlace.csproj.AssemblyReference.cache
+F:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\obj\Debug\View\AdministratorWindow.g.cs
+F:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\obj\Debug\View\LoaderOrManagerWindow.g.cs
+F:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\obj\Debug\View\LoginWindow.g.cs
+F:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\obj\Debug\View\MainWindow.g.cs
+F:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\obj\Debug\App.g.cs
+F:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\obj\Debug\MarketPlace_MarkupCompile.cache
+F:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\obj\Debug\MarketPlace_MarkupCompile.lref
+F:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\obj\Debug\View\AdministratorWindow.baml
+F:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\obj\Debug\View\LoaderOrManagerWindow.baml
+F:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\obj\Debug\View\LoginWindow.baml
+F:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\obj\Debug\View\MainWindow.baml
+F:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\obj\Debug\MarketPlace.g.resources
+F:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\obj\Debug\MarketPlace.Properties.Resources.resources
+F:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\obj\Debug\MarketPlace.csproj.GenerateResource.cache
+F:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\obj\Debug\MarketPlace.csproj.CoreCompileInputs.cache
+F:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\obj\Debug\MarketPlace.csproj.CopyComplete
+F:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\obj\Debug\MarketPlace.exe
+F:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\obj\Debug\MarketPlace.pdb
+D:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\obj\Debug\MarketPlace.csproj.AssemblyReference.cache
+D:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\obj\Debug\MarketPlace.csproj.SuggestedBindingRedirects.cache
+D:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\obj\Debug\View\LoaderOrManagerWindow.g.cs
+D:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\obj\Debug\View\LoginWindow.g.cs
+D:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\obj\Debug\View\MainWindow.g.cs
+D:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\obj\Debug\App.g.cs
+D:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\obj\Debug\MarketPlace_MarkupCompile.cache
+D:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\obj\Debug\MarketPlace_MarkupCompile.lref
+D:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\obj\Debug\MarketPlace.exe
+D:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\obj\Debug\MarketPlace.pdb
+D:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\MarketPlace.exe.config
+D:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\MarketPlace.exe
+D:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\MarketPlace.pdb
+D:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\Catel.Core.dll
+D:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\Catel.MVVM.dll
+D:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\CommonServiceLocator.dll
+D:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\GalaSoft.MvvmLight.dll
+D:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+D:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+D:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\System.Windows.Interactivity.dll
+D:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\Catel.Core.pdb
+D:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\Catel.Core.xml
+D:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\Catel.MVVM.pdb
+D:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\Catel.MVVM.xml
+D:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\GalaSoft.MvvmLight.pdb
+D:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\GalaSoft.MvvmLight.xml
+D:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+D:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+D:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+D:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+D:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\de\Catel.MVVM.resources.dll
+D:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\es\Catel.MVVM.resources.dll
+D:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\fr\Catel.MVVM.resources.dll
+D:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\it\Catel.MVVM.resources.dll
+D:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\nl\Catel.MVVM.resources.dll
+D:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\ru\Catel.MVVM.resources.dll
+D:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\tr\Catel.MVVM.resources.dll
+D:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\bin\Debug\zh-Hans\Catel.MVVM.resources.dll
+D:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\obj\Debug\View\AdministratorWindow.g.cs
+D:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\obj\Debug\View\AdministratorWindow.baml
+D:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\obj\Debug\View\LoaderOrManagerWindow.baml
+D:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\obj\Debug\View\LoginWindow.baml
+D:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\obj\Debug\View\MainWindow.baml
+D:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\obj\Debug\MarketPlace.g.resources
+D:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\obj\Debug\MarketPlace.Properties.Resources.resources
+D:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\obj\Debug\MarketPlace.csproj.GenerateResource.cache
+D:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\obj\Debug\MarketPlace.csproj.CoreCompileInputs.cache
+D:\Серёга ВКИ\Глоба + Горячкина\MarketPlace\obj\Debug\MarketPlace.csproj.CopyComplete
